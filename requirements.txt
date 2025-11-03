@@ -3,6 +3,6 @@ pandas
 requests
 beautifulsoup4
 lxml
-sqlite3-binary
 openpyxl
+
 
